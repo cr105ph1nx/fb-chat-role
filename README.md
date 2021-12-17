@@ -14,6 +14,7 @@ This is an implementation of [facebook-chat-api](https://github.com/Schmavery/fa
 To install nodejs on Debian-based:
 ```
 sudo apt install nodejs
+sudo apt install npm
 ```
 
 Then clone this repo, and install the dependencies:
