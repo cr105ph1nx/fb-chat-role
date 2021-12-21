@@ -8,7 +8,7 @@ This is an implementation of [facebook-chat-api](https://github.com/Schmavery/fa
 [facebook-chat-api](https://github.com/Schmavery/facebook-chat-api)<br>
 [puppeteer](https://pptr.dev/)<br>
 [dotenv](https://github.com/motdotla/dotenv)<br>
-[npm](https://github.com/npm/npm)
+[npm](https://github.com/npm/cli)
 
 # Install
 
